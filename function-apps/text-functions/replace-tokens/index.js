@@ -7,6 +7,7 @@ module.exports = function (context, data) {
   });
 
   // Response of the function to be used later.
+  // Add comment
   context.res = {
     body
   };
